@@ -278,8 +278,8 @@ echo "====== Container Shutdown ======"
 echo "End time: $(date)"
 echo "Container completed successfully"
 ```
+<img width="1093" height="200" alt="Снимок экрана 2025-12-23 в 22 50 14" src="https://github.com/user-attachments/assets/832484ca-64a0-4c87-9559-0cbc91935205" />
 
-![[Снимок экрана 2025-12-23 в 22.46.23.png]]
 ---
 
 ## Инструкция по выполнению практики
